@@ -1,0 +1,17 @@
+modelo,clase,cantidad_audios
+Base,alarma,50
+Base,apaga,75
+Base,enciende,61
+Base,puerta,50
+Base,ruido_fondo,20
+Base,seguro,50
+Base,ventilador,50
+Secuencial,abre_puerta,40
+Secuencial,activa_alarma,40
+Secuencial,apaga_alarma,40
+Secuencial,apaga_luz,40
+Secuencial,apaga_todo,40
+Secuencial,apaga_ventilador,40
+Secuencial,cierra_puerta,40
+Secuencial,enciende_luz,40
+Secuencial,enciende_ventilador,40
