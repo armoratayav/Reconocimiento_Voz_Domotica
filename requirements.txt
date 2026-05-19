@@ -1,0 +1,9 @@
+numpy
+pandas
+librosa
+matplotlib
+scikit-learn
+tensorflow
+
+# Nota: scripts/procesar_audios.py tambien necesita ffmpeg y ffprobe
+# instalados en el sistema y disponibles en el PATH.
