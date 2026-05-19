@@ -1,13 +1,13 @@
               precision    recall  f1-score   support
 
-      alarma       1.00      0.50      0.67        10
-       apaga       0.86      0.80      0.83        15
-    enciende       0.92      0.92      0.92        13
-      puerta       0.69      0.90      0.78        10
+      alarma       0.83      1.00      0.91        10
+       apaga       1.00      0.80      0.89        15
+    enciende       0.92      1.00      0.96        12
+      puerta       1.00      0.80      0.89        10
  ruido_fondo       1.00      0.75      0.86         4
-      seguro       0.91      1.00      0.95        10
-  ventilador       0.77      1.00      0.87        10
+      seguro       0.77      1.00      0.87        10
+  ventilador       1.00      1.00      1.00        10
 
-    accuracy                           0.85        72
-   macro avg       0.88      0.84      0.84        72
-weighted avg       0.87      0.85      0.84        72
+    accuracy                           0.92        71
+   macro avg       0.93      0.91      0.91        71
+weighted avg       0.93      0.92      0.91        71

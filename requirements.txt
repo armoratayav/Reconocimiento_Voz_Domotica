@@ -1,9 +1,10 @@
-numpy
-pandas
-librosa
-matplotlib
-scikit-learn
-tensorflow
+numpy==1.26.4
+pandas==2.2.3
+librosa==0.10.2.post1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+soundfile==0.12.1
+tensorflow-cpu==2.17.1
 
 # Nota: scripts/procesar_audios.py tambien necesita ffmpeg y ffprobe
 # instalados en el sistema y disponibles en el PATH.
