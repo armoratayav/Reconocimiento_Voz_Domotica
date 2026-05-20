@@ -1,0 +1,183 @@
+tipo,ruta,clase,cantidad_wav,detalle
+FALTA_CARPETA,audios_prueba_nuevos\Base\alarma,alarma,0,No existe carpeta esperada.
+FALTA_CARPETA,audios_prueba_nuevos\Base\apaga,apaga,0,No existe carpeta esperada.
+FALTA_CARPETA,audios_prueba_nuevos\Base\enciende,enciende,0,No existe carpeta esperada.
+FALTA_CARPETA,audios_prueba_nuevos\Base\puerta,puerta,0,No existe carpeta esperada.
+FALTA_CARPETA,audios_prueba_nuevos\Base\ruido_fondo,ruido_fondo,0,No existe carpeta esperada.
+FALTA_CARPETA,audios_prueba_nuevos\Base\seguro,seguro,0,No existe carpeta esperada.
+FALTA_CARPETA,audios_prueba_nuevos\Base\ventilador,ventilador,0,No existe carpeta esperada.
+CARPETA_NO_ESPERADA,audios_prueba_nuevos\Base\Base,,0,Carpeta directa fuera de las clases esperadas.
+CONTEO_CLASE,audios_prueba_nuevos\Base\alarma,alarma,0,Conteo de audios .wav directos.
+CONTEO_CLASE,audios_prueba_nuevos\Base\apaga,apaga,0,Conteo de audios .wav directos.
+CONTEO_CLASE,audios_prueba_nuevos\Base\enciende,enciende,0,Conteo de audios .wav directos.
+CONTEO_CLASE,audios_prueba_nuevos\Base\puerta,puerta,0,Conteo de audios .wav directos.
+CONTEO_CLASE,audios_prueba_nuevos\Base\ruido_fondo,ruido_fondo,0,Conteo de audios .wav directos.
+CONTEO_CLASE,audios_prueba_nuevos\Base\seguro,seguro,0,Conteo de audios .wav directos.
+CONTEO_CLASE,audios_prueba_nuevos\Base\ventilador,ventilador,0,Conteo de audios .wav directos.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base,,0,Posible estructura anidada Base/Base/Base.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base\alarma,,0,Posible estructura anidada Base/Base/Base.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base\enciende,,0,Posible estructura anidada Base/Base/Base.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base\puerta,,0,Posible estructura anidada Base/Base/Base.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base\ruido_fondo,,0,Posible estructura anidada Base/Base/Base.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base\seguro,,0,Posible estructura anidada Base/Base/Base.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base\ventilador,,0,Posible estructura anidada Base/Base/Base.
+BASE_ANIDADA,audios_prueba_nuevos\Base\Base\Base\alarma\apaga,,0,Posible estructura anidada Base/Base/Base.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_001.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_002.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_003.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_004.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_005.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_006.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_007.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_008.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_009.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_010.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_011.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_012.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_013.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_014.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_015.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_016.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_017.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_018.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_019.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_020.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_021.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_022.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_023.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_024.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\Base_alarma_p5_025.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_001.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_002.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_003.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_004.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_005.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_006.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_007.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_008.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_009.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_010.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_011.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_012.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_013.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_014.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_015.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_016.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_017.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_018.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_019.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_020.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_021.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_022.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_023.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_024.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\alarma\apaga\Base_apaga_p5_025.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_001.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_002.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_003.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_004.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_005.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_006.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_007.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_008.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_009.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_010.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_011.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_012.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_013.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_014.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_015.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_016.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_017.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_018.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_019.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_020.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_021.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_022.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_023.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_024.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\enciende\Base_enciende_p5_025.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_001.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_002.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_003.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_004.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_005.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_006.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_007.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_008.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_009.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_010.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_011.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_012.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_013.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_014.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\puerta\Base_puerta_p5_015.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_001.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_002.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_003.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_004.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_005.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_006.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_007.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_008.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_009.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_010.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_011.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_012.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_013.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_014.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_015.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_016.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_017.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_018.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_019.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ruido_fondo\Base_ruido_fondo_p5_020.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_001.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_002.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_003.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_004.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_005.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_006.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_007.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_008.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_009.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_010.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_011.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_012.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_013.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_014.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_015.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_016.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_017.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_018.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_019.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_020.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_021.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_022.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_023.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_024.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\seguro\Base_seguro_p5_025.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_001.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_002.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_003.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_004.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_005.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_006.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_007.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_008.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_009.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_010.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_011.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_012.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_013.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_014.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_015.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_016.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_017.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_018.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_019.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_020.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_021.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_022.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_023.wav,,0,Archivo fuera de las carpetas directas esperadas.
+ARCHIVO_FUERA_DE_LUGAR,audios_prueba_nuevos\Base\Base\Base\ventilador\Base_ventilador_p5_024.wav,,0,Archivo fuera de las carpetas directas esperadas.

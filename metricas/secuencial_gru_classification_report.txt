@@ -1,0 +1,15 @@
+                     precision    recall  f1-score   support
+
+        abre_puerta       1.00      1.00      1.00        12
+      activa_alarma       1.00      1.00      1.00        12
+       apaga_alarma       1.00      1.00      1.00        12
+          apaga_luz       1.00      1.00      1.00        16
+         apaga_todo       1.00      1.00      1.00        12
+   apaga_ventilador       1.00      1.00      1.00        12
+      cierra_puerta       1.00      1.00      1.00        12
+       enciende_luz       1.00      1.00      1.00        16
+enciende_ventilador       1.00      1.00      1.00        12
+
+           accuracy                           1.00       116
+          macro avg       1.00      1.00      1.00       116
+       weighted avg       1.00      1.00      1.00       116
