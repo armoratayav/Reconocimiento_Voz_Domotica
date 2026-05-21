@@ -116,6 +116,23 @@ Accuracy manual sobre 70 audios del dataset: 0.9714
 Estos resultados confirman que el modelo CNN ya no colapsa prediciendo una sola
 clase y que la tuberia de MFCC + CNN esta aprendiendo correctamente.
 
+## Informacion Tecnica
+
+La descripcion del preprocesamiento de audio, la justificacion de los
+hiperparametros, las metricas de ambos modelos, las matrices de confusion y el
+analisis de latencia se encuentran en:
+
+```text
+informacion/README.md
+```
+
+El notebook Jupyter reproducible para entrenamiento y generacion de metricas se
+encuentra en:
+
+```text
+notebooks/entrenamiento_metricas_reproducible.ipynb
+```
+
 ## Instalacion
 
 Crear o activar el entorno virtual:
